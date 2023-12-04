@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headerBg {
+    background-image: url("backround-image-tailwind.jpg");
+    background-size: 150rem;
+
+}
